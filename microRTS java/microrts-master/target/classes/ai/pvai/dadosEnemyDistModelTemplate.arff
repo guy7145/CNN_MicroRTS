@@ -1,0 +1,16 @@
+@relation dadosEnemyDistModel
+
+@attribute bases numeric
+@attribute barracks numeric
+@attribute workers numeric
+@attribute light numeric
+@attribute heavy numeric
+@attribute ranged numeric
+@attribute time numeric
+@attribute altura numeric
+@attribute distenemy numeric
+@attribute enemyname {EconomyRush,PuppetSearchMCTS,PortfolioAI,POLightRush,POHeavyRush,PORangedRush,POWorkerRush,RandomBiasedAI,NaiveMCTS}
+
+@data
+1,0,3,0,0,0,100,24,20,EconomyRush
+
